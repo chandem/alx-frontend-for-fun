@@ -1,2 +1,1 @@
-#Alx-frontend-for-fun
-_______________
+# alx-frontend-for-fun
