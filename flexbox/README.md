@@ -1,3 +1,3 @@
-# Flexbox
+# Alx frontend for fun Flexbox
+________
 
-- Learning about the CSS flexbox framework
